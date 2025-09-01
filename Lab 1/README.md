@@ -2,7 +2,7 @@
 
 # Staging Interaction
 
-\*\***Tiffany Yu, Viha Srinivas, Viola Chyu, Nicole Liao **\*\*
+\*\***Collaborators: Tiffany Yu, Viha Srinivas, Viola Chyu, Nicole Liao **\*\*
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -72,13 +72,14 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 
-\*\***_Setting:_ This is happening in the Cornell Tech Master's Lounge where students are studying side by side in the big table. 
+\*\***Description here**\*\*
+_Setting:_ This is happening in the Cornell Tech Master's Lounge where students are studying side by side in the big table. 
 
 _Players:_ The student who is using the device and other students who are studying along side with them in the lounge. 
 
 _Activity:_ The actors are studying silently next to one another. 
 
-_Goals:_ The goal is to charge the laptop, confirm charging with minimal steps and in a quiet manner so as not to disturb other players. We want to create a charging cable with a light indicator, similar to the Apple MacBook charger, where red light indicates charging, and green light indicates a full charge. **\*\*
+_Goals:_ The goal is to charge the laptop, confirm charging with minimal steps and in a quiet manner so as not to disturb other players. We want to create a charging cable with a light indicator, similar to the Apple MacBook charger, where red light indicates charging, and green light indicates a full charge. 
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
